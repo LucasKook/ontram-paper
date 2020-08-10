@@ -11,7 +11,7 @@ in `R` and `Python`.
 
 	- `learning-efficiency`: Code for reproducing Figure 8
 	- `models`: Code for fitting all models for the wine data listed
-	  in Table 1 (MCC, QWK, POLR, CI[x], SI-LS[x])
+	  in Table 1 (MCC, QWK, POLR, CI<sub>x</sub>, SI-LS[x])
 	- `permuted-class-labels`: Code for reproducing Figure C1
 
 - `UTKFace` and `DR`
