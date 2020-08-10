@@ -11,13 +11,15 @@ in `R` and `Python`.
 
 	- `learning-efficiency`: Code for reproducing Figure 8
 	- `models`: Code for fitting all models for the wine data listed
-	  in Table 1 (MCC, QWK, POLR, CI<sub>x</sub>, SI-LS[x])
+	  in Table 1 (MCC, QWK, POLR, CI<sub>x</sub>, SI-LS<sub>x</sub>)
 	- `permuted-class-labels`: Code for reproducing Figure C1
 
 - `UTKFace` and `DR`
 
 	- `models`: Python notebooks for fitting the models listed in Table 1
-	  (MCC, MCC-x, QWK, SI-LS[x], CI[B], CI[B]-LS[x], SI-CS[B], SI-CS[B]-LS[x])
+	  (MCC, MCC-x, QWK, SI-LS<sub>x</sub>, CI<sub>B</sub>, 
+	  CI<sub>B</sub>-LS<sub>x</sub>, SI-CS<sub>B</sub>, 
+	  SI-CS<sub>B</sub>-LS<sub>x</sub>)
 	- `simulate-tabular`: Code for simulating the tabular predictors as
 	  illustrated in Figure 5.
 
