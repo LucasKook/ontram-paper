@@ -9,6 +9,9 @@ in `R` and `Python`.
 
 - `wine`
 
+	- `data`: Contains the wine quality (red) data split into the 20CV
+	  folds mentioned in the paper. The data was taken from 
+	  [here](https://github.com/tensorchiefs/dl_playr/tree/master/mlt)
 	- `learning-efficiency`: Code for reproducing Figure 8
 	- `models`: Code for fitting all models for the wine data listed
 	  in Table 1 (MCC, QWK, POLR, CI<sub>x</sub>, SI-LS<sub>x</sub>)
