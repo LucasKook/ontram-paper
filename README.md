@@ -26,12 +26,14 @@ in `R` and `Python`.
 	- `simulate-tabular`: Code for simulating the tabular predictors as
 	  illustrated in Figure 5.
 
-`ontram`: `R` package that implements ordinal neural network transformation
-models.
-
 `Miscellaneous`: Miscellaneous scripts illustrating scoring rules and results
 from the paper.
 
 - `qwk-impropriety.R`: R-script that computes the numerical example from
   Appendix A to show impropriety of the QWK loss.
 
+The **ontram** `R` package:
+
+- The `R` package implementing ordinal neural network transformation models
+  lies in a separate repository and can be installed from within `R` via
+  `remotes::install_github("LucasKookUZH/ontram-pkg")`.
