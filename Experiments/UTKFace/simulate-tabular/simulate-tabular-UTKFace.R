@@ -27,7 +27,7 @@ cfb <- coef(m0, with_baseline = TRUE)
 
 # Parameters --------------------------------------------------------------
 
-beta <- log(c(1, 1.2, 1/1.2, 1, 1.5, 1/1.5, 1, 1, 1, 1))
+beta <- log(c(1, 2, 1/2, 1, 1.5, 1/1.5, 1, 3, 1/3, 1))
 p <- length(beta)
 sds <- rep(1.55, p)
 n <- nrow(dat)
