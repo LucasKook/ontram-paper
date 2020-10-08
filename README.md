@@ -14,15 +14,17 @@ in `R` and `Python`.
 	  [here](https://github.com/tensorchiefs/dl_playr/tree/master/mlt).
 	- `learning-efficiency`: Code for reproducing Figure 8
 	- `models`: Code for fitting all models for the wine data listed
-	  in Table 1 (MCC, QWK, POLR, CI<sub>x</sub>, SI-LS<sub>x</sub>)
-	- `permuted-class-labels`: Code for reproducing Figure C1
+	  in Table 1 (MCC, QWK, POLR, CI<sub>x</sub>, SI-LS<sub>x</sub>,
+	  SI-LS<sub>x</sub><sup>*</sup>)
+	- `permuted-class-labels`: Code for reproducing Figure A1
 
-- `UTKFace` and `DR`
+- `UTKFace`
 
 	- `models`: Python notebooks for fitting the models listed in Table 1
 	  (MCC, MCC-x, QWK, SI-LS<sub>x</sub>, CI<sub>B</sub>, 
 	  CI<sub>B</sub>-LS<sub>x</sub>, SI-CS<sub>B</sub>, 
-	  SI-CS<sub>B</sub>-LS<sub>x</sub>)
+	  SI-CS<sub>B</sub>-LS<sub>x</sub>) and the models to reproduce
+	  Figure 11.
 	- `simulate-tabular`: Code for simulating the tabular predictors as
 	  illustrated in Figure 5.
 
@@ -30,7 +32,7 @@ in `R` and `Python`.
 from the paper.
 
 - `qwk-impropriety.R`: R-script that computes the numerical example from
-  Appendix A to show impropriety of the QWK loss.
+  Appendix D to show impropriety of the QWK loss.
 
 The **ontram** `R` package:
 
