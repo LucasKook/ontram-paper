@@ -1,6 +1,6 @@
 # Ordinal Neural Network Transformation Models (ONTRAM)
 
-This repository accompanies arXiv:????.?????
+This repository accompanies arXiv:2010.08376
 
 Contents:
 
